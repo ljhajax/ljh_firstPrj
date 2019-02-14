@@ -1,1 +1,6 @@
 ﻿今天2019-02-14
+
+
+git status
+git add
+git commit
